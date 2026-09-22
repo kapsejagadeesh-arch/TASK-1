@@ -1,0 +1,105 @@
+Transaction_ID,Date,State,City,Category,Product,Quantity,Unit_Price_INR,Total_Sales_INR,Customer_Type,Payment_Method
+1,2026-08-01,Andhra Pradesh,Tirupati,Vegetables,Potato,120.0,42.5,5100.0,Retail,UPI
+2,2026-08-02,Andhra Pradesh,Tirupati,Dairy,Paneer,35.0,280.0,9800.0,Retail,Cash
+3,2026-08-03,Andhra Pradesh,Nellore,Fruits,Banana,180.0,38.0,6840.0,Retail,UPI
+4,2026-08-04,Andhra Pradesh,Chittoor,Groceries,Rice,75.0,62.0,4650.0,Wholesale,Bank Transfer
+5,2026-08-05,Andhra Pradesh,Tirupati,Beverages,Juice,95.0,55.0,5225.0,Retail,UPI
+6,2026-08-06,Andhra Pradesh,Nellore,Vegetables,Tomato,140.0,48.0,6720.0,Retail,Cash
+7,2026-08-07,Andhra Pradesh,Tirupati,Groceries,Wheat Flour,60.0,52.0,3120.0,Wholesale,UPI
+8,2026-08-08,Andhra Pradesh,Chittoor,Dairy,Milk,210.0,,12180.0,Retail,Cash
+9,2026-08-09,Andhra Pradesh,Tirupati,Snacks,Biscuits,130.0,30.0,3900.0,Retail,UPI
+10,2026-08-10,Andhra Pradesh,Nellore,Fruits,Apple,65.0,145.0,9425.0,Retail,Card
+11,2026-08-11,Andhra Pradesh,Tirupati,Vegetables,Carrot,90.0,70.0,6300.0,Retail,UPI
+12,2026-08-12,Andhra Pradesh,Chittoor,Groceries,Sugar,85.0,46.0,3910.0,Wholesale,Bank Transfer
+13,2026-08-13,Andhra Pradesh,Tirupati,Dairy,Curd,125.0,65.0,8125.0,Retail,Cash
+14,2026-08-14,Andhra Pradesh,Nellore,Beverages,Soft Drink,160.0,45.0,7200.0,Retail,UPI
+15,2026-08-15,Andhra Pradesh,,Snacks,Chips,220.0,25.0,5500.0,Retail,UPI
+16,2026-08-16,Andhra Pradesh,Chittoor,Vegetables,Onion,175.0,50.0,8750.0,Wholesale,Cash
+17,2026-08-17,Andhra Pradesh,Tirupati,Fruits,Orange,100.0,85.0,8500.0,Retail,Card
+18,2026-08-18,Andhra Pradesh,Nellore,Groceries,Dal,70.0,110.0,7700.0,Retail,UPI
+19,2026-08-19,Andhra Pradesh,Tirupati,Dairy,Butter,45.0,260.0,11700.0,Retail,Cash
+20,2026-08-20,Andhra Pradesh,Chittoor,Beverages,Tea,55.0,190.0,10450.0,Wholesale,Bank Transfer
+21,2026-08-21,Andhra Pradesh,Tirupati,Vegetables,Brinjal,115.0,58.0,6670.0,Retail,UPI
+22,2026-08-22,Andhra Pradesh,Nellore,Fruits,Papaya,80.0,65.0,5200.0,Retail,Cash
+23,2026-08-23,Andhra Pradesh,Tirupati,Groceries,Salt,150.0,22.0,3300.0,Retail,UPI
+24,2026-08-24,Andhra Pradesh,Chittoor,Dairy,Cheese,,320.0,12800.0,Retail,Card
+25,2026-08-25,Andhra Pradesh,Tirupati,Snacks,Namkeen,90.0,75.0,6750.0,Retail,Cash
+26,2026-08-26,Andhra Pradesh,Nellore,Vegetables,Cabbage,100.0,45.0,4500.0,Wholesale,UPI
+27,2026-08-27,Andhra Pradesh,Tirupati,Fruits,Mango,75.0,120.0,9000.0,Retail,UPI
+28,2026-08-28,Andhra Pradesh,Chittoor,Groceries,Cooking Oil,50.0,155.0,7750.0,Retail,Bank Transfer
+29,2026-08-29,Andhra Pradesh,Tirupati,Dairy,Yogurt,85.0,70.0,5950.0,Retail,Cash
+30,2026-08-30,Andhra Pradesh,Nellore,Beverages,Coffee,45.0,240.0,10800.0,Wholesale,UPI
+31,2026-08-31,Andhra Pradesh,Tirupati,Vegetables,Beans,80.0,78.0,6240.0,Retail,Card
+32,2026-09-01,Andhra Pradesh,Chittoor,Fruits,Guava,110.0,60.0,6600.0,Retail,
+33,2026-09-02,Andhra Pradesh,Tirupati,Groceries,Rava,70.0,55.0,3850.0,Wholesale,Cash
+34,2026-09-03,Andhra Pradesh,Nellore,Dairy,Ghee,30.0,580.0,17400.0,Retail,Bank Transfer
+35,2026-09-04,Andhra Pradesh,Tirupati,Snacks,Cake,25.0,350.0,8750.0,Retail,UPI
+36,2026-09-05,Andhra Pradesh,Chittoor,Vegetables,Cauliflower,65.0,72.0,4680.0,Retail,Cash
+37,2026-09-06,Andhra Pradesh,Tirupati,Fruits,Grapes,95.0,95.0,9025.0,Retail,UPI
+38,2026-09-07,Andhra Pradesh,Nellore,Groceries,Poha,80.0,58.0,4640.0,Wholesale,Card
+39,2026-09-08,Andhra Pradesh,Tirupati,Dairy,Lassi,100.0,55.0,5500.0,Retail,Cash
+40,2026-09-09,Andhra Pradesh,Chittoor,Beverages,Water Bottle,250.0,20.0,5000.0,Retail,UPI
+41,2026-09-10,Andhra Pradesh,Tirupati,Vegetables,Spinach,130.0,30.0,3900.0,Retail,UPI
+42,2026-09-11,Andhra Pradesh,Nellore,Fruits,Watermelon,55.0,90.0,4950.0,Retail,Cash
+43,2026-09-12,Andhra Pradesh,Tirupati,,Bisleri Water,100.0,25.0,2500.0,Wholesale,Bank Transfer
+44,2026-09-13,Andhra Pradesh,Chittoor,Dairy,Paneer,50.0,285.0,14250.0,Retail,Card
+45,2026-09-14,Andhra Pradesh,Tirupati,Snacks,Samosa,180.0,18.0,3240.0,Retail,Cash
+46,2026-09-15,Andhra Pradesh,Nellore,Vegetables,Potato,145.0,44.0,6380.0,Wholesale,UPI
+47,2026-09-16,Andhra Pradesh,Tirupati,Fruits,Pomegranate,45.0,180.0,8100.0,Retail,UPI
+48,2026-09-17,Andhra Pradesh,Chittoor,Groceries,Besan,60.0,82.0,4920.0,Retail,Cash
+49,2026-09-18,Andhra Pradesh,Tirupati,Dairy,Milk,230.0,60.0,13800.0,Retail,Card
+50,2026-09-19,Andhra Pradesh,Nellore,Beverages,Energy Drink,75.0,110.0,8250.0,Retail,UPI
+51,2026-09-20,Andhra Pradesh,Tirupati,Vegetables,Lady Finger,90.0,65.0,5850.0,Retail,Cash
+52,2026-09-21,Andhra Pradesh,Chittoor,Fruits,Pineapple,60.0,85.0,5100.0,Wholesale,Bank Transfer
+53,2026-09-22,Andhra Pradesh,Tirupati,Groceries,Maida,85.0,48.0,4080.0,Retail,UPI
+54,2026-09-23,Andhra Pradesh,Nellore,Dairy,Curd,140.0,68.0,9520.0,Retail,Cash
+55,2026-09-24,Andhra Pradesh,Tirupati,Snacks,Mixture,75.0,90.0,6750.0,Retail,UPI
+56,2026-09-25,Andhra Pradesh,Chittoor,Vegetables,Green Peas,50.0,110.0,,Wholesale,Card
+57,2026-09-26,Andhra Pradesh,Tirupati,Fruits,Sapota,70.0,75.0,5250.0,Retail,Cash
+58,2026-09-27,Andhra Pradesh,Nellore,Groceries,Toor Dal,65.0,135.0,8775.0,Retail,UPI
+59,2026-09-28,Andhra Pradesh,Tirupati,Dairy,Butter,38.0,270.0,10260.0,Retail,Bank Transfer
+60,2026-09-29,Andhra Pradesh,Chittoor,Beverages,Lemon Juice,120.0,40.0,4800.0,Retail,UPI
+61,2026-09-30,Andhra Pradesh,Tirupati,Vegetables,Bottle Gourd,100.0,42.0,4200.0,Retail,Cash
+62,2026-10-01,Andhra Pradesh,Nellore,Fruits,Custard Apple,55.0,100.0,5500.0,Retail,UPI
+63,2026-10-02,Andhra Pradesh,Tirupati,Groceries,Chana Dal,70.0,95.0,6650.0,Wholesale,Bank Transfer
+64,2026-10-03,Andhra Pradesh,Chittoor,Dairy,Cheese,35.0,330.0,11550.0,Retail,Card
+65,2026-10-04,Andhra Pradesh,Tirupati,Snacks,Murukku,65.0,80.0,5200.0,Retail,Cash
+66,2026-10-05,Andhra Pradesh,Nellore,Vegetables,Drumstick,75.0,90.0,6750.0,Wholesale,UPI
+67,2026-10-06,Andhra Pradesh,Tirupati,Fruits,Muskmelon,60.0,70.0,4200.0,Retail,UPI
+68,2026-10-07,Andhra Pradesh,Chittoor,Groceries,Turmeric Powder,45.0,150.0,6750.0,Retail,Cash
+69,2026-10-08,Andhra Pradesh,Tirupati,Dairy,,95.0,72.0,6840.0,Retail,Card
+70,2026-10-09,Andhra Pradesh,Nellore,Beverages,Mango Juice,100.0,65.0,6500.0,Retail,UPI
+71,2026-10-10,Andhra Pradesh,Tirupati,Vegetables,Beetroot,85.0,60.0,5100.0,Retail,Cash
+72,2026-10-11,Andhra Pradesh,Chittoor,Fruits,Pear,55.0,130.0,7150.0,Wholesale,Bank Transfer
+73,2026-10-12,Andhra Pradesh,Tirupati,Groceries,Coconut Oil,35.0,210.0,7350.0,Retail,UPI
+74,2026-10-13,Andhra Pradesh,Nellore,Dairy,Ghee,25.0,600.0,15000.0,Retail,Card
+75,2026-10-14,Andhra Pradesh,Tirupati,Snacks,Cookies,120.0,45.0,5400.0,Retail,Cash
+76,2026-10-15,Andhra Pradesh,Chittoor,Vegetables,Bitter Gourd,70.0,58.0,4060.0,Wholesale,UPI
+77,2026-10-16,Andhra Pradesh,Tirupati,Fruits,Kiwi,40.0,190.0,7600.0,,UPI
+78,2026-10-17,Andhra Pradesh,Nellore,Groceries,Jeera,30.0,280.0,8400.0,Retail,Cash
+79,2026-10-18,Andhra Pradesh,Tirupati,Dairy,Milk,220.0,59.0,12980.0,Retail,Card
+80,2026-10-19,Andhra Pradesh,Chittoor,Beverages,Buttermilk,150.0,25.0,3750.0,Retail,UPI
+81,2026-10-20,Andhra Pradesh,Tirupati,Vegetables,Capsicum,60.0,80.0,4800.0,Retail,Cash
+82,2026-10-21,Andhra Pradesh,Nellore,Fruits,Lemon,200.0,18.0,3600.0,Wholesale,Bank Transfer
+83,2026-10-22,Andhra Pradesh,Tirupati,Groceries,Cardamom,20.0,900.0,18000.0,Retail,UPI
+84,2026-10-23,Andhra Pradesh,Chittoor,Dairy,Paneer,42.0,290.0,12180.0,Retail,Card
+85,2026-10-24,Andhra Pradesh,Tirupati,Snacks,Bread,100.0,42.0,4200.0,Retail,Cash
+86,2026-10-25,Andhra Pradesh,Nellore,Vegetables,Cucumber,80.0,55.0,4400.0,Wholesale,UPI
+87,2026-10-26,Andhra Pradesh,Tirupati,Fruits,Strawberry,30.0,250.0,7500.0,Retail,UPI
+88,2026-10-27,Andhra Pradesh,Chittoor,Groceries,Coriander Powder,40.0,120.0,4800.0,Retail,Cash
+89,2026-10-28,Andhra Pradesh,Tirupati,Dairy,Curd,130.0,,8580.0,Retail,Card
+90,2026-10-29,Andhra Pradesh,Nellore,Beverages,Cold Coffee,65.0,95.0,6175.0,Retail,UPI
+91,2026-10-30,Andhra Pradesh,Tirupati,Vegetables,Ridge Gourd,75.0,62.0,4650.0,Retail,Cash
+92,2026-10-31,Andhra Pradesh,Chittoor,Fruits,Peach,35.0,180.0,6300.0,Wholesale,Bank Transfer
+93,2026-11-01,Andhra Pradesh,Tirupati,Groceries,Black Pepper,25.0,420.0,10500.0,Retail,UPI
+94,2026-11-02,Andhra Pradesh,Nellore,Dairy,Butter,40.0,275.0,11000.0,Retail,Card
+95,2026-11-03,Andhra Pradesh,,Snacks,Kachori,150.0,22.0,3300.0,Retail,Cash
+96,2026-11-04,Andhra Pradesh,Chittoor,Vegetables,Sweet Corn,85.0,75.0,6375.0,Wholesale,UPI
+97,2026-11-05,Andhra Pradesh,Tirupati,Fruits,Chikoo,65.0,78.0,5070.0,Retail,UPI
+98,2026-11-06,Andhra Pradesh,Nellore,Groceries,Moong Dal,55.0,125.0,6875.0,Retail,Cash
+99,2026-11-07,Andhra Pradesh,Tirupati,Dairy,Lassi,90.0,58.0,5220.0,Retail,Card
+100,2026-11-08,Andhra Pradesh,Chittoor,Beverages,Tender Coconut,80.0,55.0,4400.0,Retail,UPI
+5,2026-08-05,Andhra Pradesh,Tirupati,Beverages,Juice,95.0,55.0,5225.0,Retail,UPI
+20,2026-08-20,Andhra Pradesh,Chittoor,Beverages,Tea,55.0,190.0,10450.0,Wholesale,Bank Transfer
+50,2026-09-19,Andhra Pradesh,Nellore,Beverages,Energy Drink,75.0,110.0,8250.0,Retail,UPI
+80,2026-10-19,Andhra Pradesh,Chittoor,Beverages,Buttermilk,150.0,25.0,3750.0,Retail,UPI
